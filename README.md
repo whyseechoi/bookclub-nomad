@@ -1,3 +1,3 @@
 # bookclub-nomad
 IT dictionary
-I like ☕
+<br> I like 💻
